@@ -43,9 +43,11 @@ Na mijn middelbare school heb ik een militaire opleiding gevolgd en daarna de we
 
 Voel je vrij om me te bereiken voor samenwerkingen, vragen over mijn projecten, of gewoon om te kletsen. 
 Je kunt me vinden op :
-**LinkedIn:** www.linkedin.com/in/get-ms-karanyawad
-**Instagram:** @thaiseboy 
-**E-mail:** get_sarun@hotmail.com. 
+
+- **LinkedIn:** www.linkedin.com/in/get-ms-karanyawad
+- **Instagram:** @thaiseboy 
+- **E-mail:** get_sarun@hotmail.com. 
+
 Ik kijk ernaar uit om met gelijkgestemden te connecten!
 
 Bedankt voor het langskomen en het leren kennen van mij. 🌈 Tot ziens in de digitale wereld!
