@@ -2,7 +2,7 @@
 
 # Hi there! 😄
 
-Welkom in mijn kleurrijke digitale wereld! 🚀 Dit is mijn allereerste README, en ik kan niet wachten om je een beetje meer te vertellen over wie ik ben.
+Welkom in mijn kleurrijke digitale wereld! 🚀 Dit is mijn allereerste README.
 
 ## Over mij
 
