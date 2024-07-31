@@ -1,5 +1,6 @@
 
 
+
 # Hi there! 😄
 
 Welkom in mijn kleurrijke digitale wereld! 🚀 Dit is mijn allereerste README.
@@ -11,6 +12,18 @@ Welkom in mijn kleurrijke digitale wereld! 🚀 Dit is mijn allereerste README.
 
 **Studie:**
 Op dit moment ben ik bezig met mijn opleiding tot Front-end Developer. Mijn studentnummer is 316735868, dus als je me ooit nodig hebt voor iets, onthoud dan dat nummer!
+
+**Vaardigheden**
+
+ - HTML5
+ - CSS3
+ - JavaScript
+ - JQuery
+ - PHP
+ - MySQL
+ - Vue.js
+ - Bootstrap
+ - Pinia
 
 **Projecten:**
 Mijn dagen worden tegenwoordig gevuld met spannende projecten van de LOI. Ik ben helemaal in mijn element als ik bezig ben met het bouwen van coole dingen voor het web.
@@ -28,7 +41,12 @@ Na mijn middelbare school heb ik een militaire opleiding gevolgd en daarna de we
 
 ## Hoe je me kunt bereiken:
 
-Voel je vrij om me te bereiken voor samenwerkingen, vragen over mijn projecten, of gewoon om te kletsen. Je kunt me vinden op LinkedIn en Instagram (@thaiseboy) of mail naar get_sarun@hotmail.com. Ik kijk ernaar uit om met gelijkgestemden te connecten!
+Voel je vrij om me te bereiken voor samenwerkingen, vragen over mijn projecten, of gewoon om te kletsen. 
+Je kunt me vinden op :
+**LinkedIn:** www.linkedin.com/in/get-ms-karanyawad
+**Instagram:** @thaiseboy 
+**E-mail:** get_sarun@hotmail.com. 
+Ik kijk ernaar uit om met gelijkgestemden te connecten!
 
 Bedankt voor het langskomen en het leren kennen van mij. 🌈 Tot ziens in de digitale wereld!
 
