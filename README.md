@@ -50,7 +50,7 @@ Je kunt me vinden op:
   
 
 •  **LinkedIn:** [www.linkedin.com/in/get-ms-karanyawad](https://www.linkedin.com/in/get-ms-karanyawad)
-•  **Instagram:** [@thaiseboy](https://www.instagram.com/thaiseboy)
+•  **Portfolio:** getdeveloper.nl
 •  **E-mail:** get_sarun@hotmail.com
 
   
