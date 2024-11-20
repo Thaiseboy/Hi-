@@ -1,62 +1,59 @@
+# Hi there! 😄  
+Welkom in mijn kleurrijke digitale wereld! 🚀  
 
-# Hi there! 😄
-Welkom in mijn kleurrijke digitale wereld! 🚀 Dit is mijn allereerste README.
+## Over mij  
+**Naam:** Master Supakon Karanyawad (nickname: Get)  
+**Leeftijd:** 28 jaar  
 
-  
+### Carrière  
+Ik ben een gepassioneerde Front-end Developer met een scherp oog voor detail en ervaring in het bouwen van dynamische, gebruiksvriendelijke webapplicaties. Na het behalen van mijn HBO Front-end Developer diploma aan de LOI heb ik als freelancer diverse WordPress-websites ontwikkeld. Daarnaast werk ik aan uitdagende projecten met moderne technologieën zoals Vue.js, en blijf ik mezelf continu ontwikkelen in zowel front-end als back-end development.
 
-## Over mij
-**Naam:** (Get) Master Supakon Karanyawad - ja, dat ben ik! 🌟
-**Leeftijd:** 28 jaar
+---
 
-### Carrière
-Ik ben een gedreven Front-end Developer met ervaring in het bouwen van dynamische en moderne webapplicaties. Na mijn HBO-opleiding Front-end Developer aan de LOI ben ik aan de slag gegaan als freelancer, waarbij ik WordPress-websites ontwikkel voor diverse klanten. Daarnaast blijf ik mezelf verder ontwikkelen in technologieën zoals Vue.js en werk ik aan uitdagende projecten die mijn passie voor technologie en creativiteit combineren.
+### Vaardigheden  
+**Frontend:**  
+- HTML5  
+- CSS3 (inclusief SASS en TailwindCSS)  
+- JavaScript (met frameworks zoals Vue.js en Pinia)  
+- jQuery  
+- Bootstrap  
 
-  
+**Backend:**  
+- PHP (MVC-methodologie)  
+- MySQL  
+- API-integraties  
 
-### Vaardigheden
-•  HTML5
-•  CSS3
-•  JavaScript
-•  jQuery
-•  PHP
-•  MySQL
-•  Vue.js
-•  Bootstrap
-•  Pinia
-•  WordPress
+**CMS:**  
+- WordPress  
+- Sanity (headless CMS)  
 
-### Projecten:
-Naast mijn freelance werk met WordPress, ben ik bezig met het ontwikkelen van mijn portfolio, gebouwd met Vue.js en een headless CMS (Sanity). Ik ben altijd bezig met het verbeteren van mijn vaardigheden en het leveren van kwalitatieve oplossingen voor mijn klanten.
+**Tools:**  
+- Git & GitHub  
+- Visual Studio Code  
+- XAMPP  
+- Laravel (basis)
 
-  
+---
 
-### Achtergrond:
-Na mijn middelbare school heb ik een militaire opleiding gevolgd, gevolgd door een carrière als souschef in een restaurant in het schilderachtige Purmerend. Hoewel koken nog steeds een passie van me is, heeft webontwikkeling mijn nieuwsgierigheid en creativiteit echt geprikkeld. Ik geniet ervan om als developer aan oplossingen te werken en mijn vaardigheden voortdurend uit te breiden.
+### Achtergrond  
+Mijn reis begon met een militaire opleiding, gevolgd door een carrière als souschef in een restaurant in Purmerend. Hoewel koken altijd een passie zal blijven, vond ik mijn ware roeping in webontwikkeling. Het oplossen van complexe problemen, werken aan innovatieve projecten en constant leren vormen de kern van mijn dagelijkse motivatie.  
 
-  
+---
 
-### Wat je kunt verwachten:
-🚧 Projecten in opbouw: Hier deel ik mijn reis als Front-end Developer en freelancer, met een focus op zowel WordPress-ontwikkeling als mijn ervaring met moderne technologieën zoals Vue.js.
+### Wat je kunt verwachten  
+- 🚧 **Projecten in ontwikkeling:** Ik deel mijn ervaringen en leerpunten als freelancer en developer met een focus op WordPress, Vue.js en Laravel.  
+- 🍳 **Culinaire avonturen:** Koken blijft een creatieve uitlaatklep, en ik deel graag mijn gerechten naast mijn code.  
+- 🎨 **Innovatieve creaties:** Of het nu gaat om design, development of persoonlijke projecten, ik blijf nieuwe mogelijkheden ontdekken en implementeren.  
 
-🍳 Culinaire avonturen: Af en toe deel ik ook mijn culinaire creaties. Wie weet vinden we samen de perfecte mix van code en smaak!
+---
 
-🎨 Creatieve uitspattingen: Of het nu gaat om design, development, of een ander creatief project, ik blijf voortdurend nieuwe dingen ontdekken en leren.
+### Neem contact op  
+Ik sta altijd open voor samenwerkingen, ideeën en gesprekken over technologie en creativiteit.  
 
-### Hoe je me kunt bereiken:
-Voel je vrij om me te benaderen voor samenwerkingen, vragen over mijn projecten, of gewoon om in contact te komen.
+- **LinkedIn:** [www.linkedin.com/in/get-ms-karanyawad](https://www.linkedin.com/in/get-ms-karanyawad)  
+- **Portfolio:** [getdeveloper.nl](https://getdeveloper.nl)  
+- **E-mail:** get_sarun@hotmail.com  
 
-Je kunt me vinden op:
+Bedankt dat je hier bent! Tot ziens in de digitale wereld. 🌈  
 
-  
-
-•  **LinkedIn:** [www.linkedin.com/in/get-ms-karanyawad](https://www.linkedin.com/in/get-ms-karanyawad)
-•  **Portfolio:** [getdeveloper.nl](https://getdeveloper.nl)
-•  **E-mail:** get_sarun@hotmail.com
-
-  
-
-Ik kijk ernaar uit om met gelijkgestemden te connecten!
-
-Bedankt voor het langskomen en het leren kennen van mij. 🌈 Tot ziens in de digitale wereld!
-
-Keep coding and cooking! 🚀🍲
+**Keep coding and cooking! 🚀🍲**  
