@@ -3,7 +3,6 @@
 ## About Me
 Name: Master Supakon Karanyawad (nickname: Get)
 
-### Carrière  
 Hi! I’m Master Supakon Karanyawad, a passionate 29 years old Frontend Developer with a creative mindset and a strong drive to keep growing.
 I focus on building modern, maintainable, and user friendly web applications that combine solid functionality with clean and efficient design.
 
