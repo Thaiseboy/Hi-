@@ -1,20 +1,18 @@
 # Hi there! 😄  
-Welkom in mijn kleurrijke digitale wereld! 🚀  
 
-## Over mij  
-**Naam:** Master Supakon Karanyawad (nickname: Get)  
-**Leeftijd:** 29 jaar  
+## About Me
+Name: Master Supakon Karanyawad (nickname: Get)
 
 ### Carrière  
-Hoi! Ik ben Master Supakon Karanyawad, 29 jaar. Een gepassioneerde Frontend Developer met een creatieve mindset en een sterke drang om continu te blijven groeien.
-Ik richt me op het bouwen van moderne, onderhoudbare en gebruiksvriendelijke webapplicaties die functionaliteit combineren met een strak en efficiënt design.
+Hi! I’m Master Supakon Karanyawad, a passionate 29 years old Frontend Developer with a creative mindset and a strong drive to keep growing.
+I focus on building modern, maintainable, and user friendly web applications that combine solid functionality with clean and efficient design.
 
-Mijn reis begon met een militaire opleiding, gevolgd door een carrière als souschef in een restaurant in Purmerend. Hoewel koken altijd een creatieve passie zal blijven, ontdekte ik uiteindelijk mijn ware roeping in webontwikkeling.
-Het ontwikkelen van intuïtieve interfaces, het oplossen van complexe technische uitdagingen en het werken aan moderne, innovatieve projecten geven mij dagelijks energie.
-De combinatie van creativiteit, logica en continue groei maakt dit vak voor mij de perfecte balans tussen denken en creëren.
+My journey started with a military education, followed by a career as a souschef in a restaurant in Purmerend. Although cooking will always remain a creative passion, I eventually discovered my true calling in web development.
+Creating intuitive interfaces, solving complex technical challenges, and working on modern and innovative projects give me energy every day.
+The combination of creativity, logic, and continuous learning makes this field the perfect balance between thinking and creating.
 ---
 
-### Vaardigheden  
+### Skills 
 - HTML5  
 - CSS3 
 - JavaScript, Typescript, jQuery  
@@ -24,11 +22,9 @@ De combinatie van creativiteit, logica en continue groei maakt dit vak voor mij 
 - Sanity
 ---
 
-### Neem contact op  
-Ik sta altijd open voor samenwerkingen, ideeën en gesprekken over technologie en creativiteit.  
+### Contact
+I’m always open to collaborations, new ideas, and conversations about technology and creativity.
 
 - **LinkedIn:** [www.linkedin.com/in/get-ms-karanyawad](https://www.linkedin.com/in/get-ms-karanyawad)  
 - **Portfolio:** [getdeveloper.nl](https://getdeveloper.nl)  
 - **E-mail:** get_sarun@hotmail.com  
-
-**Keep coding and cooking! 🚀🍲**  
